@@ -1,5 +1,5 @@
 # Antonio Correia
-- 📚 Estudante de *Ciência da Computação* na *UFPI*
+- 📚 Estudante de *Ciência da Computação* na *UFPI*. Atualamente me dedico ao estudo de desenvolvimento back-end utilizando os frameworks baseados em python , Django e Django REST Framework.
 <div style="display: inline-block;">
         <img width=80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img width=80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
