@@ -1,5 +1,7 @@
 # Antonio Correia
 - 📚 Estudante de *Ciência da Computação* na *UFPI*. Iai, beleza ?  Atualmente me dedico ao estudo de desenvolvimento back-end utilizando os frameworks baseados em python , Django e Django REST Framework e não esquecendo de sempre implementar boas práticas de programação. Além disso venho começando a estudar a linguagem Go, e ainda vale ressaltar que possuo uma base em front-end.
+#
+- Back-End:
 <div style="display: inline-block;">
         <img width=80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img width=80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
